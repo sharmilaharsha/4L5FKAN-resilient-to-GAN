@@ -18,7 +18,7 @@ cd 4L5FKAN-resilient-to-GAN
 ## Install dependencies:
 Ensure you have Python 3.7+ installed.
 ## Install required packages:
-bash
+
 pip install -r requirements.txt
 
 ## Usage
@@ -28,9 +28,9 @@ Place your dataset in the appropriate directory as specified in the project docu
 Run experiments:
 Use the provided scripts to train models, generate adversarial examples, and evaluate resilience:
 
-bash
 python train.py
 python evaluate.py
+
 Analyze results:
 Results and logs will be saved in the results/ directory for further analysis.
 
