@@ -29,6 +29,7 @@ Run experiments:
 Use the provided scripts to train models, generate adversarial examples, and evaluate resilience:
 
 python train.py
+
 python evaluate.py
 
 Analyze results:
@@ -54,7 +55,7 @@ This project is intended for academic and research use. Please refer to the repo
 ## Acknowledgments
 This work is submitted to Applied Soft Computing.
 
-Thanks to all contributors and the research community for their support.
+Thanks to all contributors and the research community for the support.
 
 ## Contact
 For questions or collaboration inquiries, please contact the repository maintainer sharmila@sit.ac.in.
