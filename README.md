@@ -46,6 +46,12 @@ data/ — Place your datasets here
 
 results/ — Experiment outputs and logs
 
+## Dataset Access
+Please note that this dataset could be used for research purposes only, and any commercial use of the data is prohibited. To access this dataset, send a request to the following email addresses:
+
+phd2201101012@iiti.ac.in
+sharmila@sit.ac.in
+
 ## Contributing
 Contributions are welcome! Please open an issue to discuss your ideas or submit a pull request. For major changes, open an issue first to discuss what you would like to change.
 
